@@ -1,0 +1,38 @@
+{
+    "Users": [
+        {
+            "name": "Given ",
+            "surname": "Malatjie"
+            
+        },
+        {
+            "name": "Marcus",
+            "surname": "Raphael"
+        },
+        {
+            "name": "Patricia",
+            "surname": "Shabalala"
+        },
+        {
+            "name": "Maria",
+             "surname":"dos Milagres"
+        },
+        {
+            "name": "Francisco",
+            "surname":"Maseko"
+        },
+        {
+            "name": "Isabel",
+            "surname": "Luiza"
+        },
+        {
+            "name": "Antonia",
+            "surname": "Fernanda"
+        },
+        {
+            "name": "Tshepo",
+            "surname": "Torres"
+        }
+   
+    ]
+}
